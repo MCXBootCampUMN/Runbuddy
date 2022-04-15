@@ -36,6 +36,7 @@ Here are some guidelines for installing the project on your local machine:
 
 ## **_Contribution_**
 Made with ❤️  by MCX
+
 https://github.com/Mcnoor/Runbuddy
 ### ©️2019 Run Buddy, Inc
 https://mcnoor.github.io/Runbuddy/

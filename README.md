@@ -29,12 +29,13 @@ Here are some guidelines for installing the project on your local machine:
 3. Enjoy and don't hesitate to contribute!
 
 ## **_Link URL to deployed website on GitHub_**
-https://noemiegrau.github.io/run-buddy/
+
 
 ## **_Link URL to GitHub Repository_**
-https://github.com/Noemiegrau/password-generator
+
 
 ## **_Contribution_**
-Made with ❤️  by Noemie
-
+Made with ❤️  by MCX
+https://github.com/Mcnoor/Runbuddy
 ### ©️2019 Run Buddy, Inc
+https://mcnoor.github.io/Runbuddy/

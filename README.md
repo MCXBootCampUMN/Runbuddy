@@ -16,6 +16,9 @@ A website that offers fitness training services.
 * HTML5
 * CSS3
 
+## Website 
+[Deployed Site](http://3.19.242.131/#) <br>
+
 ## **_Mockup_**
 ![run-buddy-screenshot](https://user-images.githubusercontent.com/78329298/110898167-90800d00-82b3-11eb-863b-ff62d3e5e2c3.png)
 

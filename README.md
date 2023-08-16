@@ -32,10 +32,12 @@ Here are some guidelines for installing the project on your local machine:
 3. Enjoy and don't hesitate to contribute!
 
 ## **_Link URL to deployed website on GitHub_**
-https://mcnoor.github.io/Runbuddy/
+Build and delvelop branch AWS EC2
+[Deployed Site](http://3.19.242.131/#) <br>
 
 ## **_Link URL to GitHub Repository_**
 https://github.com/Mcnoor/Runbuddy
+
 
 ## **_Contribution_**
 Made with ❤️  by MCX

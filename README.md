@@ -15,6 +15,7 @@ A website that offers fitness training services.
 ## **_Technologies used_**
 * HTML5
 * CSS3
+* AWS: Deployment
 
 ## Website 
 [Deployed Site](http://3.19.242.131/#) <br>
@@ -36,7 +37,6 @@ Build and delvelop branch AWS EC2
 [Deployed Site](http://3.19.242.131/#) <br>
 
 ## **_Link URL to GitHub Repository_**
-https://github.com/Mcnoor/Runbuddy
 [Deployed Site](https://github.com/Maxamed-NCX/Runbuddy/tree/main)
 
 

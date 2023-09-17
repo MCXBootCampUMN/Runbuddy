@@ -37,6 +37,7 @@ Build and delvelop branch AWS EC2
 
 ## **_Link URL to GitHub Repository_**
 https://github.com/Mcnoor/Runbuddy
+[Deployed Site](https://github.com/Maxamed-NCX/Runbuddy/tree/main)
 
 
 ## **_Contribution_**

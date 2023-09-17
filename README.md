@@ -17,8 +17,6 @@ A website that offers fitness training services.
 * CSS3
 * AWS: Deployment
 
-## Website 
-[Deployed Site](http://3.19.242.131/#) <br>
 
 ## **_Mockup_**
 ![run-buddy-screenshot](https://user-images.githubusercontent.com/78329298/110898167-90800d00-82b3-11eb-863b-ff62d3e5e2c3.png)
@@ -37,7 +35,7 @@ Build and delvelop branch AWS EC2
 [Deployed Site](http://3.19.242.131/#) <br>
 
 ## **_Link URL to GitHub Repository_**
-[Deployed Site](https://github.com/Maxamed-NCX/Runbuddy/tree/main)
+[Deployed Repo](https://github.com/Maxamed-NCX/Runbuddy/tree/main)
 
 
 ## **_Contribution_**

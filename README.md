@@ -35,7 +35,7 @@ Build and delvelop branch AWS EC2
 [Deployed Site](http://3.19.242.131/#) <br>
 
 ## **_Link URL to GitHub Repository_**
-[Deployed Repo](https://github.com/Maxamed-NCX/Runbuddy/tree/main)
+[GitHub Repo](https://github.com/Maxamed-NCX/Runbuddy/tree/main)
 
 
 ## **_Contribution_**

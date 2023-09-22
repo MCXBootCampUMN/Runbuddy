@@ -1,4 +1,4 @@
-# **_Run Buddy, Inc**
+# **Run Buddy, Inc**
 ## UofM BootCamp: Multiple Pages Site
 
 ## **_Table of contents_**

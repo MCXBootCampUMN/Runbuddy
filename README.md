@@ -1,5 +1,5 @@
 # **Run Buddy, Inc**
-## UofM BootCamp: Multiple Pages Site
+## Portfolio 1 Project
 
 ## **_Table of contents_**
 * [Description of the project](#description-of-the-project)
